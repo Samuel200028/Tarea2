@@ -1,0 +1,8 @@
+D:\Archivos\Visual Studio\Tarea2\Tarea2\bin\Debug\Tarea2.exe.config
+D:\Archivos\Visual Studio\Tarea2\Tarea2\bin\Debug\Tarea2.exe
+D:\Archivos\Visual Studio\Tarea2\Tarea2\bin\Debug\Tarea2.pdb
+D:\Archivos\Visual Studio\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.AssemblyReference.cache
+D:\Archivos\Visual Studio\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.SuggestedBindingRedirects.cache
+D:\Archivos\Visual Studio\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.CoreCompileInputs.cache
+D:\Archivos\Visual Studio\Tarea2\Tarea2\obj\Debug\Tarea2.exe
+D:\Archivos\Visual Studio\Tarea2\Tarea2\obj\Debug\Tarea2.pdb
